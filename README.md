@@ -2,7 +2,7 @@
 
 
 
-I’m a **DevOps Engineer** based in Cincinnati, OH, passionate about using technology to drive efficiency and innovation. I specialize in building scalable cloud solutions, automating infrastructure, and ensuring smooth CI/CD pipelines. With expertise in AWS, GCP, Terraform, Jenkins, containerization, and Java, I excel in fast-paced environments where I tackle complex challenges. My focus on automation and continuous improvement helps streamline workflows and enhance team collaboration, allowing teams to concentrate on delivering high-quality software.
+I’m a **Cloud Engineer** based in Cincinnati, OH, passionate about using technology to drive efficiency and innovation. I specialize in building scalable cloud solutions, automating infrastructure, and ensuring smooth CI/CD pipelines. With expertise in AWS, GCP, Terraform, Jenkins, containerization, and Java, I excel in fast-paced environments where I tackle complex challenges. My focus on automation and continuous improvement helps streamline workflows and enhance team collaboration, allowing teams to concentrate on delivering high-quality software.
 
 ---
 
@@ -34,7 +34,7 @@ I’m a **DevOps Engineer** based in Cincinnati, OH, passionate about using tech
 
 ## 💼 **Professional Experience**
 
-### **DevOps Engineer @ Tata Consultancy Services (TCS)**
+### **Cloud Engineer @ Tata Consultancy Services (TCS)**
 
 - 🌩️ Automated cloud infrastructure deployment using Terraform, improving deployment time by 50%.
 - 🚀 Managed CI/CD pipelines with Jenkins for smooth deployments across multiple environments.
