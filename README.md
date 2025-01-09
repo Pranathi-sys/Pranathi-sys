@@ -97,11 +97,11 @@ I’m a **Cloud Engineer** based in Cincinnati, OH, passionate about using techn
 
 ## 📊 **Current Projects**
 
-### **🔍 Optimizing CI/CD Pipelines for Medical Data Processing**
-Building robust CI/CD pipelines for continuous deployment of machine learning models that predict heart disease using PSO, GA, and HOA optimization.
+### **🔍 Flask App CI/CD Automation **
+Automated CI/CD pipeline with Jenkins, Docker, AWS (ECR, ECS), improving deployment efficiency and scalability.
 
-### **🖥️ Infrastructure as Code (IaC) for 3D Avatar Processing**
-Developing automated infrastructure with Terraform to handle large-scale data processing for 3D avatar creation and lip synchronization.
+### **🖥️ Terraform AWS Infrastructure: Scalable & Modular **
+Built scalable AWS architecture using Terraform for VPC, EC2, Auto Scaling, ensuring high availability and security.
 
 ---
 
